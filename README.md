@@ -1,7 +1,7 @@
 ## Hi, I'm Loredana 👩🏻‍💻
 
 - 🔭 I’m a Software Engineering student
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning more about Vue.js and PostgreSQL
 - 💬 I work on personal projects in my spare time
 - 💻 Personal website incoming
 
